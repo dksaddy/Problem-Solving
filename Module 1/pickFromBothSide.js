@@ -1,5 +1,5 @@
 /*
-Problem Description:
+Problem Description:Pick from both sides!
 
 1. Given an integer array A of size N.
 2. You have to pick exactly B elements from either left or right end of the array 
